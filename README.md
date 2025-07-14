@@ -12,8 +12,8 @@ Aplicação React com TypeScript
 
 Os requisitos de pagina e componetes estao distribuidos entre as paginas Inicio e Home.
 
-1 até 5 na pagina inicio.
-6 até 8 na pagina home.
+- 1 até 5 na pagina inicio.
+- 6 até 8 na pagina home.
 
 ---
 
