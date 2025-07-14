@@ -4,6 +4,11 @@ Aplicação React com TypeScript
 
 ---
 
+## Executar:
+  - Execute os comandos em sequencia:
+    - Make build
+    - Make run
+
 ## Requisitos:
  - npm install @mui/material @emotion/react @emotion/styled react-router-dom
 
